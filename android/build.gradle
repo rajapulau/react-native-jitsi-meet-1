@@ -46,7 +46,7 @@ repositories {
 }
 
 dependencies {
-  implementation ('com.qiscus.meet:meet-qiscus:2.11.0') {
+  implementation ('com.qiscus.meet:meet-qiscus:2.9.3') {
     // implementation ('org.jitsi.react:jitsi-meet-sdk:2.+') {
       exclude group: 'com.facebook',module:'hermes'
       // exclude group: 'com.facebook.react',module:'react-native-fast-image'
